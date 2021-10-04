@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Socio Infonavit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login_description_family">Familia</string>
+    <string name="login_description_logo">Socio Infonavit</string>
+    <string name="login_mail">Correo</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_mail_hint">example@mail.com</string>
+    <string name="login_password_hint">********</string>
+    <string name="login_enter">Entrar</string>
+    <string name="login_forgot_password"><u>¿Olvidaste tu contraseña?</u></string>
+    <string name="login_bottom_text">Todos los derechos reservados SOCIO INFONAVIT</string>
+    <string name="login_success_text">Inicio de sesión exitoso.</string>
+    <string name="navmenu_title_logout">Cerrar Sesión</string>
+    <string name="add">¡Lo Quiero!</string>
+
+    <string name="description_user_icon">Icono de Usuario</string>
+    <string name="description_menu_icon">Icono de Menú</string>
+    <string name="example_mail">example@mail.com</string>
+    <string name="example_title">Wallet Title</string>
+
+</resources>

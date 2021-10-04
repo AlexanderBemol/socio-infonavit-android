@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="regular_text_size">14sp</dimen>
+    <dimen name="subtitle_text_size">18sp</dimen>
+
+    <dimen name="extra_small_space">4dp</dimen>
+    <dimen name="small_space">8dp</dimen>
+    <dimen name="normal_space">16dp</dimen>
+    <dimen name="big_space">32dp</dimen>
+    <dimen name="extra_big_space">64dp</dimen>
+    <dimen name="navigation_max_width">250dp</dimen>
+    <dimen name="card_size">150dp</dimen>
+</resources>
